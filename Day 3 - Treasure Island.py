@@ -1,17 +1,3 @@
-# Termos aprendidos durante o day 3: 
-
-# Condicionais: If/Else/Elif
-
-# Operadores de Comparação: < (menor), > (maior), =< (menor ou igual), >= (maior ou igual), == (igual), != (diferente).
-
-# Operador modular (%): Serve pra mostrar o resto de uma divisão. ex: 2 % 2 = 0.
-
-# Operadores Lógicos: and, or, not.
-
-# Metodos lower() (deixa uma string toda em minusculo) e count() (conta a quantidade de vezes que algo se repete em uma string. ex: "saudade".count(a) = 2, pois a letra "a" se repete 2x)
-
-# DESAFIO FINAL DO DIA 3:
-
 print('''
 +-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+
 |T|R|E|A|S|U|R|E| |I|S|L|A|N|D|
