@@ -1,22 +1,3 @@
-# Termos aprendidos durante o day 5: 
-
-# Loops:
-
-# for loop:
-#   fruits = ["Apple", "Peach", "Pear"]
-#   for fruit in fruits:
-#       print(fruit)
-
-# for ... in range:
-#   total = 0
-#   for number in range (0, 100):
-#       total += number
-#   print(total)
-
-# DICA: O numero final do range não conta com ele mesmo, ex: Se usar um range de 1 a 100, só vai contar do 1 até o 99. O melhor nesse caso é fazer de 0 a 100 ou de 1 a 101.
-
-# DESAFIO FINAL DO DIA 5:
-
 import random
 
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
