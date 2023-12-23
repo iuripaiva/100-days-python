@@ -1,10 +1,3 @@
-# Aprendizados do day 7: 
-
-# Esse dia foi focado majoritariamente no desafio final, aplicando todos os termos aprendidos até então como if e else, loops, funções etc.
-
-# DESAFIO FINAL DO DIA 7:
-
-# HANGMAN - A Forca.
 import random, hangman_words, hangman_art
 
 def play_game():
