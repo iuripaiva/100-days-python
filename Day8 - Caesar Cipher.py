@@ -1,4 +1,4 @@
-import cc_art
+import arts
 from unidecode import unidecode
 
 def start():
@@ -6,7 +6,7 @@ def start():
     alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
     shifted_alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
-    print(cc_art.logo)
+    print(arts.caesar_logo)
     direction = input("\nType 'encode' to encrypt, type 'decode' to decrypt:\n")
     text = input("\nType your message:\n").lower()
     text = text.replace(" ", "") # Remove espaços
