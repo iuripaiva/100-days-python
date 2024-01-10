@@ -1,8 +1,8 @@
-import secret_auction_art as s_art
+import arts
 
 bidders = {}
 
-print(s_art.logo)
+print(arts.auction_logo)
 print("Welcome to the Secret Auction program.")
 
 def new_bidder():
