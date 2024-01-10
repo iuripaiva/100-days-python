@@ -1,4 +1,4 @@
-import random, hangman_words, hangman_art
+import random, hangman_words, arts
 
 def play_game():
 
@@ -8,7 +8,7 @@ def play_game():
     # CONTADOR DE VIDAS
     lives = 6
 
-    print(hangman_art.logo)
+    print(arts.hangman_logo)
 
     # print(f"\nDebug: The word is '{chosen_word}'.\n")
 
